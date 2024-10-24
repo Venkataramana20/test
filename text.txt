@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hi we are in master c2 ready
 
+=======
+hu zkckzczdkbkb
+>>>>>>> dev
